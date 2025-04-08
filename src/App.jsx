@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import { Postcontext } from './Components/Contexts'
 import CreatePost from './Components/CreatePost/CreatePost'
-
 import AllPost from './Components/AllPost/AllPost'
 import Checkin from './Components/Checkin/Checkin'
 
