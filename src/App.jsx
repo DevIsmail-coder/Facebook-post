@@ -26,9 +26,7 @@ const App = () => {
     setMyPost(savedPost);
   }, []);
   return (
-
     <div className='Appbody'>
-
       <Postcontext.Provider value={{
         myPost, setMyPost, imageValue, setImageValue,
         myData, setMyData, myPost, setShowPop, showPop, setShowAll, setCheckIn, setCheckData, checkData

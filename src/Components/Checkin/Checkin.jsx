@@ -45,7 +45,6 @@ const Checkin = () => {
         <span className='Checkininput' >
           <input type="file"
             id='isxx'
-            placeholder='LastName'
             name={checkData.image1}
             hidden
             // value={checkData.image1}
